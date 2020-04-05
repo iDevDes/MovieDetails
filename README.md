@@ -1,2 +1,0 @@
-# MovieDetails
-Created with CodeSandbox
